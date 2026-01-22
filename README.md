@@ -1,7 +1,7 @@
 # ROS2 Maze Navigation Bot 🧭
 
 > **Status**: In Progress | **Target**: Compatible with TurtleBot3  
-> **Expected Completion**: September 2025
+> **Expected Completion**: September 2025 (Update: Delayed)
 
 ## 🔍 Overview
 This project implements an autonomous maze-solving robot using **ROS2**, **Nav2**, and **RTAB-Map SLAM**. The navigation stack is tested in simulation and designed for real-world compatibility with **TurtleBot3** hardware.
